@@ -1,7 +1,10 @@
 package ohtu.verkkokauppa;
 
 import java.util.*;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
+@Component
 public class Varasto implements Vrsto {
 
     /*private static Varasto instanssi;
@@ -17,6 +20,7 @@ public class Varasto implements Vrsto {
     private Kpito kirjanpito;
     private HashMap<Tuote, Integer> saldot;  
     
+    @Autowired
     public Varasto(Kpito krjnpto) {
         kirjanpito = krjnpto;
         saldot = new HashMap<Tuote, Integer>();
