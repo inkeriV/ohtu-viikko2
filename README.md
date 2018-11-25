@@ -1,4 +1,2 @@
 # ohtu-viikko2
-))
-hhggh
-[]<-
+eka muutos
