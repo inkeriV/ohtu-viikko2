@@ -1,3 +1,7 @@
 /build/
 /.gradle/
 /Verkkokauppa1/build/
+/mockito/MockitoDemo/.nb-gradle/
+/mockito/MockitoDemo/build/
+/mockito/MatkakorttiMockito/.nb-gradle/
+/mockito/MatkakorttiMockito/build/
